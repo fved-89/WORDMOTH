@@ -1,0 +1,17 @@
+# Archivos generados por WordMoth
+diccionario_*.txt
+diccionario_*.rule
+perfil.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Editores
+.vscode/
+.idea/
+.DS_Store

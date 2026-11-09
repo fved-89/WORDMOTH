@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wordmoth"
+version = "1.0.0"
+description = "Generador de diccionarios y reglas para auditorías WiFi"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [
+    { name = "Favio" }
+]
+
+[project.scripts]
+wordmoth = "wordmoth:main"
