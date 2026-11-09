@@ -21,3 +21,10 @@ No requiere dependencias externas, solo Python 3.8 o superior.
 ```bash
 git clone https://github.com/fved-89/wordmoth.git
 cd wordmoth
+```
+
+## Ejecución en Linux
+
+```bash
+python3 wordmoth.py
+```
